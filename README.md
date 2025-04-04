@@ -39,8 +39,8 @@
 
   <section id="contact">
     <h2>Contact Us</h2>
-    <p>Email: info@intronixmedia.com</p>
-    <p>Phone: +123-456-7890</p>
+    <p>Email: jumanthony254@gmail.com</p>
+    <p>Phone: +2547-9771-6306</p>
   </section>
 
   <footer>
